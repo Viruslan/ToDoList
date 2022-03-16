@@ -1,4 +1,4 @@
-# animelist
+# todolist
 
 ## Project setup
 ```
